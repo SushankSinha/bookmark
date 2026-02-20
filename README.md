@@ -2,7 +2,7 @@
 
 A production-ready, private bookmark manager with real-time sync across tabs.
 
-**Live URL:** [Bookmark App](https://bookmark-seven-nu.vercel.app/)
+**Live URL:** [Bookmark App](https://bookmark-topaz-tau.vercel.app/)
 
 ---
 
